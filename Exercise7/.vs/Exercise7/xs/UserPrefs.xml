@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{190B26A4-3128-4E37-0D21-86CBA84C7CBA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ConvertTemperatures.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ConvertTemperatures.cs" Line="81" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise7" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ConvertTemperatures.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a8cb8e18-fd4e-4205-b534-ba13d36d6413" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
