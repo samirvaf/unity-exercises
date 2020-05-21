@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{691E3107-F9D2-22B0-395B-7066E8B5AC6C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PrintFavoriteGames.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PrintFavoriteGames.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PrintFavoriteGames.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a928af14-1564-4949-a8b8-e1df84850d77" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
