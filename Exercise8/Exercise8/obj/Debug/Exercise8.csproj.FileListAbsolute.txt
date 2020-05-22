@@ -1,0 +1,13 @@
+c:/users/albert/documents/visual studio 2017/Projects/Exercise8/Exercise8/bin/Debug/Exercise8.exe.config
+c:/users/albert/documents/visual studio 2017/Projects/Exercise8/Exercise8/bin/Debug/Exercise8.exe
+c:/users/albert/documents/visual studio 2017/Projects/Exercise8/Exercise8/bin/Debug/Exercise8.pdb
+c:/users/albert/documents/visual studio 2017/Projects/Exercise8/Exercise8/obj/Debug/Exercise8.csprojResolveAssemblyReference.cache
+c:/users/albert/documents/visual studio 2017/Projects/Exercise8/Exercise8/obj/Debug/Exercise8.exe
+c:/users/albert/documents/visual studio 2017/Projects/Exercise8/Exercise8/obj/Debug/Exercise8.pdb
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/bin/Debug/Exercise8.exe.config
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/bin/Debug/Exercise8.exe
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/bin/Debug/Exercise8.pdb
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/obj/Debug/Exercise8.csprojAssemblyReference.cache
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/obj/Debug/Exercise8.csproj.CoreCompileInputs.cache
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/obj/Debug/Exercise8.exe
+/Users/samir.ferreira/Downloads/_497f7200c26c3ca113d29c26fa4c1b17_2-1-Visual-Studio-Exercise-8-Materials/Exercise8/Exercise8/obj/Debug/Exercise8.pdb
