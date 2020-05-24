@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{63DFFBF1-B9D8-294D-7C91-C79FDC3726C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/GreenTeddyBear.cs">
+    <Files>
+      <File FileName="Assets/scripts/YellowTeddyBear.cs" Line="28" Column="1" />
+      <File FileName="Assets/scripts/GreenTeddyBear.cs" Line="20" Column="14" />
+      <File FileName="Assets/scripts/PurpleTeddyBear.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise11" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="GreenTeddyBear.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="89aa3303-77b9-47df-9f72-7c99d78c83fb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
