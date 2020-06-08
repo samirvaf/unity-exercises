@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleCards">
+      <HintPath>..\..\..\..\..\Downloads\_3a94a17153760f4ab357a525bf2d38bd_1-3-Exercise-4-Materials\ConsoleCards.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
