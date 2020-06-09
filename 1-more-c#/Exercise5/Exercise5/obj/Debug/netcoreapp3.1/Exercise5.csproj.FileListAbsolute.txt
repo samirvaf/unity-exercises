@@ -1,0 +1,12 @@
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.deps.json
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.runtimeconfig.json
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.runtimeconfig.dev.json
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.dll
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.pdb
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csprojAssemblyReference.cache
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.AssemblyInfoInputs.cache
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.AssemblyInfo.cs
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csproj.CoreCompileInputs.cache
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.dll
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.pdb
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise5/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.genruntimeconfig.cache
