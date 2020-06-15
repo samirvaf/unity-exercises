@@ -1,0 +1,12 @@
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/bin/Debug/netcoreapp3.1/Exercise9.deps.json
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/bin/Debug/netcoreapp3.1/Exercise9.runtimeconfig.json
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/bin/Debug/netcoreapp3.1/Exercise9.runtimeconfig.dev.json
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/bin/Debug/netcoreapp3.1/Exercise9.dll
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/bin/Debug/netcoreapp3.1/Exercise9.pdb
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.csprojAssemblyReference.cache
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.AssemblyInfoInputs.cache
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.AssemblyInfo.cs
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.csproj.CoreCompileInputs.cache
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.dll
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.pdb
+/Users/samir.ferreira/Unity/unity-exercises/1-more-c#/Exercise9/Exercise9/obj/Debug/netcoreapp3.1/Exercise9.genruntimeconfig.cache
